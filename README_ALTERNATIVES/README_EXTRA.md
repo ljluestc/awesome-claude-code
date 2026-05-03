@@ -187,6 +187,9 @@
   </picture>
 </div>
 
+<a href="https://tokrepo.com"><img src="../assets/badge-tokrepo.svg" alt="TokRepo"></a>  
+_An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies._
+
 <a href="https://github.com/jarrodwatts/claude-hud"><img src="../assets/badge-claude-hud.svg" alt="Claude HUD"></a>  
 _A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong._  
 ![GitHub Stats for claude-hud](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-hud&username=jarrodwatts&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -194,10 +197,6 @@ _A really stacked status line that exposes just about everything you might need 
 <a href="https://github.com/Astro-Han/claude-pace"><img src="../assets/badge-claude-pace.svg" alt="claude-pace"></a>  
 _A lightweight Bash + jq statusline for Claude Code that displays rate limit pace delta (burn rate vs. time remaining), 5h/7d usage percentage, context window usage, git branch and diff stats. Compares current consumption rate against time remaining in each rate limit window to indicate whether quota is being used faster or slower than the window allows. Single file with no external dependencies beyond jq._  
 ![GitHub Stats for claude-pace](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-pace&username=Astro-Han&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="../assets/badge-clawd-on-desk.svg" alt="Clawd on Desk"></a>  
-_A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?_  
-![GitHub Stats for clawd-on-desk](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=clawd-on-desk&username=rullerzhou-afk&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 
 <br>
@@ -660,6 +659,12 @@ _Read-only PostgreSQL query skill for Claude Code. Executes SELECT/SHOW/EXPLAIN/
 <a href="https://github.com/obra/superpowers"><img src="../assets/badge-superpowers.svg" alt="Superpowers"></a>  
 _A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code._  
 ![GitHub Stats for superpowers](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=superpowers&username=obra&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
+
+
+<a href="https://tokrepo.com"><img src="../assets/badge-tokrepo.svg" alt="TokRepo"></a>  
+_An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies._
 
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 

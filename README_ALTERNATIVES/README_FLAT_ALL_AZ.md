@@ -1766,6 +1766,12 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 <td colspan="4"><img src="https://img.shields.io/github/stars/ClaytonFarr/ralph-playbook?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/ClaytonFarr/ralph-playbook?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/ClaytonFarr/ralph-playbook?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/ClaytonFarr/ralph-playbook?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/ClaytonFarr/ralph-playbook?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/ClaytonFarr/ralph-playbook?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/ClaytonFarr/ralph-playbook?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/ClaytonFarr/ralph-playbook?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/ClaytonFarr/ralph-playbook?style=flat-square" alt="license"></td>
 </tr>
 <tr>
+<td><a href="https://tokrepo.com"><b>TokRepo</b></a><br>by <a href="https://github.com/henu-wang">William Wang</a></td>
+<td>Agent Skills</td>
+<td>General</td>
+<td>An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md"><b>TPL</b></a><br>by <a href="https://github.com/KarpelesLab">KarpelesLab</a></td>
 <td>CLAUDE.md Files</td>
 <td>Language-Specific</td>
@@ -1869,6 +1875,6 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 
 ---
 
-**Total Resources:** 203
+**Total Resources:** 204
 
-**Last Generated:** 2026-04-21
+**Last Generated:** 2026-05-02

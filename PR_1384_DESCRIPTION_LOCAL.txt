@@ -19,14 +19,30 @@ Add **TokRepo** to **Agent Skills > General** as an open registry for AI skills,
 TokRepo is an open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. It includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets during a conversation. No signup is required and the tooling has zero dependencies.
 ## Suggested Entry
 - [TokRepo](https://tokrepo.com) by [William Wang](https://github.com/henu-wang) - An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies.
+## Install / Usage
+### CLI (zero-install)
+`npx tokrepo search "code review"`
+### MCP server (Claude Code)
+`claude mcp add tokrepo -- npx tokrepo-mcp-server`
+### Example in-conversation requests
+- Search TokRepo for code review skills
+- Show trending TokRepo assets
+- Install a TokRepo workflow for testing
 ## Rationale
 - Makes it easy to discover installable Claude Code assets from a single registry.
 - Supports both CLI and MCP-based workflows for in-conversation discovery/install.
 - Keeps setup friction low with no account requirement and zero dependencies.
+## Local Changes Included
+- Added TokRepo resource row in `THE_RESOURCES_TABLE.csv` with ID `skill-224f36a6`.
+- Regenerated root and alternative README outputs from CSV.
+- Generated asset badge: `assets/badge-tokrepo.svg`.
 ## Validation
 - Confirmed the PR body matches the issue #1384 submission details.
 - Confirmed category/sub-category placement is **Agent Skills > General**.
 - Confirmed links, author attribution, and command examples are included.
+- Ran:
+  - `python3 -m scripts.resources.sort_resources`
+  - `python3 -m scripts.readme.generate_readme`
 ## Additional Notes
 Prepared locally for direct paste into the GitHub PR body.
 

@@ -46,6 +46,9 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 ## Latest Additions ✨ [🔝](#awesome-claude-code)
 
 
+[`TokRepo`](https://tokrepo.com) &nbsp; by &nbsp; [William Wang](https://github.com/henu-wang)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;No License / Not Specified  
+An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies.
+
 [`Claude HUD`](https://github.com/jarrodwatts/claude-hud) &nbsp; by &nbsp; [Jarrod Watts](https://github.com/jarrodwatts)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong.
 
@@ -64,17 +67,6 @@ A lightweight Bash + jq statusline for Claude Code that displays rate limit pace
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-pace](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-pace&username=Astro-Han&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Clawd on Desk`](https://github.com/rullerzhou-afk/clawd-on-desk) &nbsp; by &nbsp; [Ruller_Lulu](https://github.com/rullerzhou-afk)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for clawd-on-desk](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=clawd-on-desk&username=rullerzhou-afk&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -339,6 +331,9 @@ A strong bundle of core competencies for software engineering, with good coverag
 
 </details>
 <br>
+
+[`TokRepo`](https://tokrepo.com) &nbsp; by &nbsp; [William Wang](https://github.com/henu-wang)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;No License / Not Specified  
+An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies.
 
 [`Trail of Bits Security Skills`](https://github.com/trailofbits/skills) &nbsp; by &nbsp; [Trail of Bits](https://github.com/trailofbits)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;CC-BY-SA-4.0  
 A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.

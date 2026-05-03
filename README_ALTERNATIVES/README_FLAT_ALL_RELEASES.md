@@ -98,31 +98,11 @@ A flat list view of all resources. Category: **All** | Sorted: by latest release
 <tr>
 <td colspan="5"><img src="https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/jarrodwatts/claude-hud?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/jarrodwatts/claude-hud?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/jarrodwatts/claude-hud?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/jarrodwatts/claude-hud?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/jarrodwatts/claude-hud?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/jarrodwatts/claude-hud?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/jarrodwatts/claude-hud?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/jarrodwatts/claude-hud?style=flat-square" alt="license"></td>
 </tr>
-<tr>
-<td><a href="https://github.com/matt1398/claude-devtools"><b>claude-devtools</b></a><br>by <a href="https://github.com/matt1398">matt1398</a></td>
-<td>v0.4.9</td>
-<td>GitHub</td>
-<td>2026-03-23</td>
-<td>A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.</td>
-</tr>
-<tr>
-<td colspan="5"><img src="https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/matt1398/claude-devtools?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/matt1398/claude-devtools?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/matt1398/claude-devtools?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/matt1398/claude-devtools?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/matt1398/claude-devtools?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/matt1398/claude-devtools?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/matt1398/claude-devtools?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/matt1398/claude-devtools?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/agent-sh/agnix"><b>agnix</b></a><br>by <a href="https://github.com/agent-sh">agent-sh</a></td>
-<td>v0.16.5</td>
-<td>GitHub</td>
-<td>2026-03-23</td>
-<td>A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.</td>
-</tr>
-<tr>
-<td colspan="5"><img src="https://img.shields.io/github/stars/agent-sh/agnix?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/agent-sh/agnix?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/agent-sh/agnix?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/agent-sh/agnix?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/agent-sh/agnix?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/agent-sh/agnix?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/agent-sh/agnix?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/agent-sh/agnix?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/agent-sh/agnix?style=flat-square" alt="license"></td>
-</tr>
 </tbody>
 </table>
 
 ---
 
-**Total Resources:** 6
+**Total Resources:** 4
 
-**Last Generated:** 2026-04-21
+**Last Generated:** 2026-05-02

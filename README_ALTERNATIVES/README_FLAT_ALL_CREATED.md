@@ -62,6 +62,12 @@ A flat list view of all resources. Category: **All** | Sorted: by date created
 <td>Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. [warning: YouTube link]</td>
 </tr>
 <tr>
+<td><a href="https://tokrepo.com"><b>TokRepo</b></a><br>by <a href="https://github.com/henu-wang">William Wang</a></td>
+<td>Agent Skills</td>
+<td>General</td>
+<td>An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies.</td>
+</tr>
+<tr>
 <td><a href="https://nikiforovall.blog/claude-code-rules/"><b>Claude Code Handbook</b></a><br>by <a href="https://github.com/nikiforovall">nikiforovall</a></td>
 <td>Workflows & Knowledge Guides</td>
 <td>General</td>
@@ -1869,6 +1875,6 @@ A flat list view of all resources. Category: **All** | Sorted: by date created
 
 ---
 
-**Total Resources:** 203
+**Total Resources:** 204
 
-**Last Generated:** 2026-04-21
+**Last Generated:** 2026-05-02
