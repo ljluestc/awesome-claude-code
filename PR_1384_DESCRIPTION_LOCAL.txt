@@ -1,0 +1,33 @@
+# Pull Request
+## Linked Issue
+Closes #1384
+## Type of Contribution
+- [x] **New Resource** - Adding a new resource to the list [ONLY THE BOT MAY DO THIS]
+- [ ] **Update Resource** - Updating existing resource information (e.g., broken link, license info)
+- [ ] **Repository Improvement** - Improving the repository itself (not adding resources)
+## Summary
+Add **TokRepo** to **Agent Skills > General** as an open registry for AI skills, prompts, MCP configs, and workflows.
+## Resource Information
+- **Display Name**: TokRepo
+- **Category**: Agent Skills
+- **Sub-Category**: General
+- **Primary Link**: https://tokrepo.com
+- **Author Name**: William Wang
+- **Author Link**: https://github.com/henu-wang
+- **License**: Not specified
+## Description
+TokRepo is an open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. It includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets during a conversation. No signup is required and the tooling has zero dependencies.
+## Suggested Entry
+- [TokRepo](https://tokrepo.com) by [William Wang](https://github.com/henu-wang) - An open registry of 200+ curated AI assets — skills, prompts, MCP configs, and workflows. Includes a CLI (`npx tokrepo search`) and an MCP server (`npx tokrepo-mcp-server`) so Claude Code can search and install assets mid-conversation. No signup needed, zero dependencies.
+## Rationale
+- Makes it easy to discover installable Claude Code assets from a single registry.
+- Supports both CLI and MCP-based workflows for in-conversation discovery/install.
+- Keeps setup friction low with no account requirement and zero dependencies.
+## Validation
+- Confirmed the PR body matches the issue #1384 submission details.
+- Confirmed category/sub-category placement is **Agent Skills > General**.
+- Confirmed links, author attribution, and command examples are included.
+## Additional Notes
+Prepared locally for direct paste into the GitHub PR body.
+
+Co-Authored-By: Oz <oz-agent@warp.dev>
